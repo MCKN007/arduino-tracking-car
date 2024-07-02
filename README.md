@@ -41,4 +41,8 @@
 ### 连接电源
 确保TB6612的VCC连接到Arduino的5V，GND连接到Arduino的GND，VM连接到电机的电源（比如电池的正极），GND连接到电机电源的负极。
 
+## 图片展示
+![image](https://github.com/MCKN007/arduino-tracking-car/blob/main/486663af21e9f1f80060d4c7eb11116.jpg)
+![image](https://github.com/MCKN007/arduino-tracking-car/blob/main/86acf9d3f5a3099269393ebcdce4cc1.jpg)
+![image](https://github.com/MCKN007/arduino-tracking-car/blob/main/cd20a337345d51993fc23f8cff3637a.jpg)
 
